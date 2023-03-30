@@ -1,0 +1,22 @@
+h3{
+    margin:20px 0;
+    font-size: 2em;
+}
+
+h2{
+    font-size: 2.5em;
+}
+
+.filter{
+    max-width: 20%;
+    /* padding:20px; */
+}
+
+ul{
+    margin: 0 20px;
+}
+
+ul a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
